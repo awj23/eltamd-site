@@ -1,0 +1,1163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top Professional Sunscreen 2026 | Dermatologist Recommended SPF</title>
+    <meta name="description" content="Discover the best Professional Sunscreen recommended by dermatologists. Shop UV Clear, UV Daily, UV Physical and more. Free shipping on orders $75+">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.65;
+            color: #333333;
+            background: #ffffff;
+            font-size: 16px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        .header {
+            background: #ffffff;
+            color: #333333;
+            padding: 20px 0;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            border-bottom: 1px solid #e8e8e8;
+        }
+
+        .header-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 32px;
+            font-weight: 700;
+            letter-spacing: 0.5px;
+            color: #00a0df;
+        }
+
+        .trust-badge {
+            font-size: 14px;
+            background: #f5f5f5;
+            color: #666666;
+            padding: 10px 20px;
+            border-radius: 24px;
+            font-weight: 600;
+            letter-spacing: 0.3px;
+            border: 1px solid #e0e0e0;
+        }
+
+        .hero {
+            background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 50%, #f9f9f9 100%);
+            padding: 80px 20px 90px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            right: -10%;
+            width: 600px;
+            height: 600px;
+            background: radial-gradient(circle, rgba(0, 160, 223, 0.12) 0%, transparent 70%);
+            border-radius: 50%;
+            animation: float 8s ease-in-out infinite;
+        }
+
+        .hero::after {
+            content: '';
+            position: absolute;
+            bottom: -30%;
+            left: -5%;
+            width: 500px;
+            height: 500px;
+            background: radial-gradient(circle, rgba(0, 160, 223, 0.08) 0%, transparent 70%);
+            border-radius: 50%;
+            animation: float 10s ease-in-out infinite reverse;
+        }
+
+        @keyframes float {
+            0%, 100% { transform: translate(0, 0) scale(1); }
+            50% { transform: translate(30px, -30px) scale(1.1); }
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.05); }
+        }
+
+        .hero h1 {
+            font-size: 56px;
+            color: #1a1a1a;
+            margin-bottom: 24px;
+            font-weight: 800;
+            line-height: 1.1;
+            letter-spacing: -1px;
+            position: relative;
+            z-index: 1;
+            animation: fadeInUp 0.8s ease-out;
+        }
+
+        .hero h1 .highlight {
+            color: #00a0df;
+            position: relative;
+            display: inline-block;
+        }
+
+        .hero h1 .highlight::after {
+            content: '';
+            position: absolute;
+            bottom: 8px;
+            left: 0;
+            right: 0;
+            height: 12px;
+            background: rgba(0, 160, 223, 0.2);
+            z-index: -1;
+            border-radius: 4px;
+        }
+
+        .hero-subtitle {
+            font-size: 24px;
+            color: #555555;
+            margin-bottom: 28px;
+            font-weight: 400;
+            line-height: 1.5;
+            position: relative;
+            z-index: 1;
+            animation: fadeInUp 0.8s ease-out 0.2s backwards;
+        }
+
+        .hero-stats {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            margin: 32px 0 24px;
+            position: relative;
+            z-index: 1;
+            animation: fadeInUp 0.8s ease-out 0.3s backwards;
+        }
+
+        .hero-stat {
+            text-align: center;
+        }
+
+        .hero-stat-number {
+            font-size: 36px;
+            font-weight: 800;
+            color: #00a0df;
+            display: block;
+            line-height: 1;
+            margin-bottom: 8px;
+        }
+
+        .hero-stat-label {
+            font-size: 14px;
+            color: #666666;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .hero-badge {
+            display: inline-block;
+            background: linear-gradient(135deg, #00a0df 0%, #0090c9 100%);
+            color: #ffffff;
+            padding: 14px 32px;
+            border-radius: 30px;
+            font-size: 17px;
+            font-weight: 700;
+            margin-top: 16px;
+            box-shadow: 0 6px 20px rgba(0, 160, 223, 0.35);
+            position: relative;
+            z-index: 1;
+            transition: all 0.3s ease;
+            animation: fadeInUp 0.8s ease-out 0.4s backwards;
+            letter-spacing: 0.3px;
+        }
+
+        .hero-badge:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 25px rgba(0, 160, 223, 0.45);
+        }
+
+        .hero-cta {
+            margin-top: 40px;
+            position: relative;
+            z-index: 1;
+            animation: fadeInUp 0.8s ease-out 0.5s backwards;
+        }
+
+        .hero-cta-button {
+            background: linear-gradient(135deg, #ff6b35 0%, #ff5722 100%);
+            color: white;
+            padding: 20px 48px;
+            border: none;
+            border-radius: 50px;
+            font-size: 20px;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            display: inline-block;
+            box-shadow: 0 8px 24px rgba(255, 107, 53, 0.4);
+            position: relative;
+            overflow: hidden;
+            letter-spacing: 0.5px;
+            text-transform: uppercase;
+            animation: pulse 2s ease-in-out infinite;
+        }
+
+        .hero-cta-button::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.4), transparent);
+            transition: left 0.6s ease;
+        }
+
+        .hero-cta-button:hover::before {
+            left: 100%;
+        }
+
+        .hero-cta-button:hover {
+            transform: translateY(-4px) scale(1.05);
+            box-shadow: 0 12px 32px rgba(255, 107, 53, 0.5);
+            animation: none;
+        }
+
+        .hero-cta-subtext {
+            display: block;
+            margin-top: 16px;
+            font-size: 14px;
+            color: #666666;
+            font-weight: 600;
+        }
+
+        .urgency-banner {
+            background: linear-gradient(135deg, #ff6b35 0%, #ff5722 100%);
+            color: white;
+            padding: 12px 20px;
+            text-align: center;
+            font-size: 15px;
+            font-weight: 700;
+            letter-spacing: 0.5px;
+            box-shadow: 0 2px 8px rgba(255, 107, 53, 0.3);
+            animation: pulse 2s ease-in-out infinite;
+        }
+
+        .urgency-banner span {
+            display: inline-block;
+            margin: 0 8px;
+        }
+
+        a.urgency-banner {
+            display: block;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        a.urgency-banner:hover {
+            background: linear-gradient(135deg, #e85d2a 0%, #e64a14 100%);
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        .section-title {
+            text-align: center;
+            font-size: 38px;
+            color: #333333;
+            margin-bottom: 50px;
+            font-weight: 700;
+            letter-spacing: -0.5px;
+            position: relative;
+            padding-bottom: 20px;
+        }
+
+        .section-title::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 80px;
+            height: 4px;
+            background: #00a0df;
+            border-radius: 2px;
+        }
+
+        .product-grid {
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+            margin-bottom: 50px;
+        }
+
+        .product-card {
+            background: white;
+            border-radius: 16px;
+            overflow: hidden;
+            box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            display: flex;
+            flex-direction: row;
+            align-items: stretch;
+            border: 2px solid #f0f0f0;
+        }
+
+        .product-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(90deg, #00a0df 0%, #0090c9 100%);
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .product-card:hover {
+            transform: translateX(12px) translateY(-6px);
+            box-shadow: 0 12px 32px rgba(0,0,0,0.15);
+            border-color: #00a0df;
+        }
+
+        .product-card:hover::before {
+            opacity: 1;
+        }
+
+        .bestseller-badge {
+            position: absolute;
+            top: 16px;
+            right: 16px;
+            background: linear-gradient(135deg, #ffd700 0%, #ffed4e 100%);
+            color: #333333;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 13px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            box-shadow: 0 4px 12px rgba(255, 215, 0, 0.4);
+            z-index: 10;
+            animation: pulse 2s ease-in-out infinite;
+        }
+
+        .rating-stars {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 12px;
+            font-size: 14px;
+        }
+
+        .stars {
+            color: #ffd700;
+            font-size: 18px;
+            letter-spacing: 2px;
+        }
+
+        .rating-count {
+            color: #666666;
+            font-weight: 600;
+        }
+
+        .rank-badge {
+            position: absolute;
+            top: 24px;
+            left: 24px;
+            background: linear-gradient(135deg, #00a0df 0%, #0090c9 100%);
+            color: white;
+            width: 75px;
+            height: 75px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 32px;
+            font-weight: 800;
+            box-shadow: 0 6px 20px rgba(0, 160, 223, 0.4);
+            z-index: 10;
+            border: 4px solid white;
+            transition: all 0.3s ease;
+        }
+
+        .product-card:hover .rank-badge {
+            transform: scale(1.15) rotate(5deg);
+            box-shadow: 0 8px 24px rgba(0, 160, 223, 0.5);
+        }
+
+        .product-image {
+            width: 420px;
+            min-width: 420px;
+            background: #f9f9f9;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 40px;
+            position: relative;
+        }
+
+        .product-image::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 250px;
+            height: 250px;
+            background: radial-gradient(circle, rgba(0, 160, 223, 0.05) 0%, transparent 70%);
+            border-radius: 50%;
+        }
+
+        .product-image-placeholder {
+            width: 320px;
+            height: 340px;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 18px;
+            color: #666666;
+            text-align: center;
+            padding: 0;
+            font-weight: 600;
+            position: relative;
+            z-index: 1;
+            transition: all 0.3s ease;
+            border: 1px solid #e8e8e8;
+            overflow: hidden;
+        }
+
+        .product-image-placeholder img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: all 0.3s ease;
+        }
+
+        .product-card:hover .product-image-placeholder {
+            transform: scale(1.05);
+            box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+        }
+
+        .product-card:hover .product-image-placeholder img {
+            transform: scale(1.1);
+        }
+
+        .product-content {
+            padding: 32px;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .product-name {
+            font-size: 28px;
+            font-weight: 700;
+            color: #333333;
+            margin-bottom: 16px;
+            line-height: 1.25;
+            letter-spacing: -0.3px;
+        }
+
+        .product-description {
+            font-size: 17px;
+            color: #666666;
+            margin-bottom: 24px;
+            line-height: 1.65;
+            font-weight: 400;
+        }
+
+        .product-features {
+            list-style: none;
+            margin-bottom: 28px;
+            flex: 1;
+        }
+
+        .product-features li {
+            font-size: 16px;
+            color: #555555;
+            padding: 10px 0;
+            padding-left: 32px;
+            position: relative;
+            line-height: 1.6;
+            transition: all 0.2s ease;
+        }
+
+        .product-features li:hover {
+            color: #00a0df;
+            padding-left: 36px;
+        }
+
+        .product-features li:before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: #00a0df;
+            font-weight: 700;
+            font-size: 20px;
+            transition: all 0.2s ease;
+        }
+
+        .product-features li:hover:before {
+            transform: scale(1.2);
+        }
+
+        .product-footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-top: 24px;
+            border-top: 2px solid #f0f0f0;
+            margin-top: auto;
+        }
+
+        .product-price {
+            font-size: 36px;
+            font-weight: 700;
+            color: #333333;
+            letter-spacing: -1px;
+        }
+
+        .product-price-label {
+            font-size: 13px;
+            color: #999999;
+            font-weight: 600;
+            display: block;
+            margin-bottom: 6px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .cta-button {
+            background: linear-gradient(135deg, #00a0df 0%, #0090c9 100%);
+            color: white;
+            padding: 18px 40px;
+            border: none;
+            border-radius: 10px;
+            font-size: 18px;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            text-decoration: none;
+            display: inline-block;
+            box-shadow: 0 6px 16px rgba(0, 160, 223, 0.3);
+            position: relative;
+            overflow: hidden;
+            letter-spacing: 0.5px;
+            text-transform: uppercase;
+        }
+
+        .cta-button::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.4), transparent);
+            transition: left 0.5s ease;
+        }
+
+        .cta-button:hover::before {
+            left: 100%;
+        }
+
+        .cta-button:hover {
+            background: linear-gradient(135deg, #0090c9 0%, #007ba7 100%);
+            transform: translateY(-3px) scale(1.05);
+            box-shadow: 0 8px 24px rgba(0, 160, 223, 0.45);
+        }
+
+        .cta-button:active {
+            transform: translateY(-1px);
+        }
+
+        .limited-stock {
+            display: inline-block;
+            background: #fff3cd;
+            color: #856404;
+            padding: 6px 14px;
+            border-radius: 16px;
+            font-size: 13px;
+            font-weight: 700;
+            margin-top: 12px;
+            border: 1px solid #ffeaa7;
+        }
+
+        .benefits-section {
+            background: #f9f9f9;
+            padding: 80px 20px;
+            margin: 60px 0;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .benefits-section::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 1px;
+            background: linear-gradient(90deg, transparent, rgba(0, 160, 223, 0.2), transparent);
+        }
+
+        .benefits-grid {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+            gap: 40px;
+        }
+
+        .benefit-card {
+            text-align: center;
+            padding: 36px 24px;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+            transition: all 0.3s ease;
+            border: 1px solid #e8e8e8;
+        }
+
+        .benefit-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+            border-color: #00a0df;
+        }
+
+        .benefit-icon {
+            font-size: 56px;
+            margin-bottom: 20px;
+            filter: drop-shadow(0 4px 8px rgba(0,0,0,0.1));
+            transition: all 0.3s ease;
+        }
+
+        .benefit-card:hover .benefit-icon {
+            transform: scale(1.1);
+        }
+
+        .benefit-title {
+            font-size: 20px;
+            font-weight: 700;
+            color: #333333;
+            margin-bottom: 12px;
+            letter-spacing: -0.2px;
+        }
+
+        .benefit-text {
+            font-size: 16px;
+            color: #666666;
+            line-height: 1.65;
+        }
+
+        .disclaimer {
+            background: #f5f5f5;
+            padding: 40px 24px;
+            text-align: center;
+            font-size: 14px;
+            color: #666666;
+            line-height: 1.8;
+            border-top: 1px solid #e0e0e0;
+        }
+
+        .footer {
+            background: #333333;
+            color: white;
+            padding: 50px 20px;
+            text-align: center;
+        }
+
+        .footer-content {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .footer-links {
+            margin: 20px 0;
+        }
+
+        .footer-links a {
+            color: #cccccc;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 14px;
+            transition: color 0.3s ease;
+        }
+
+        .footer-links a:hover {
+            color: #00a0df;
+        }
+
+        @media (max-width: 768px) {
+            .urgency-banner, a.urgency-banner {
+                font-size: 13px;
+                padding: 10px 16px;
+            }
+
+            .urgency-banner span {
+                display: block;
+                margin: 4px 0;
+            }
+
+            .hero h1 {
+                font-size: 38px;
+                letter-spacing: -0.8px;
+            }
+
+            .hero h1 .highlight::after {
+                height: 8px;
+                bottom: 4px;
+            }
+
+            .hero-subtitle {
+                font-size: 18px;
+            }
+
+            .hero {
+                padding: 50px 20px 60px;
+            }
+
+            .hero-stats {
+                flex-direction: column;
+                gap: 20px;
+            }
+
+            .hero-stat-number {
+                font-size: 32px;
+            }
+
+            .hero-cta-button {
+                padding: 18px 36px;
+                font-size: 18px;
+            }
+
+            .hero-cta-subtext {
+                font-size: 12px;
+            }
+
+            .product-card {
+                flex-direction: column;
+            }
+
+            .product-image {
+                width: 100%;
+                min-width: 100%;
+                height: 360px;
+                padding: 24px;
+            }
+
+            .product-image-placeholder {
+                width: 100%;
+                height: 100%;
+            }
+
+            .product-content {
+                padding: 28px;
+            }
+
+            .product-name {
+                font-size: 24px;
+            }
+
+            .product-description {
+                font-size: 16px;
+            }
+
+            .product-features li {
+                font-size: 15px;
+            }
+
+            .product-price {
+                font-size: 32px;
+            }
+
+            .rank-badge {
+                width: 65px;
+                height: 65px;
+                font-size: 28px;
+                top: 20px;
+                left: 20px;
+            }
+
+            .bestseller-badge {
+                top: 12px;
+                right: 12px;
+                font-size: 11px;
+                padding: 6px 12px;
+            }
+
+            .header-content {
+                flex-direction: column;
+                gap: 14px;
+            }
+
+            .section-title {
+                font-size: 30px;
+            }
+
+            .cta-button {
+                padding: 16px 32px;
+                font-size: 16px;
+            }
+
+            .benefits-grid {
+                grid-template-columns: 1fr;
+                gap: 24px;
+            }
+
+            .benefit-card {
+                padding: 28px 20px;
+            }
+
+            .product-footer {
+                flex-direction: column;
+                gap: 16px;
+                align-items: flex-start;
+            }
+
+            .cta-button {
+                width: 100%;
+                text-align: center;
+            }
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+            *,
+            *::before,
+            *::after {
+                animation-duration: 0.01ms !important;
+                animation-iteration-count: 1 !important;
+                transition-duration: 0.01ms !important;
+            }
+        }
+    </style>
+</head>
+<body>
+    <a href="https://affur.top/ls2386a" class="urgency-banner" target="_blank" rel="noopener">
+        🔥 <span>With 20% Off</span> • <span>Free Shipping on Orders $75+</span> • <span>Shop Now & Save!</span> 🔥
+    </a>
+
+    <header class="header">
+        <div class="header-content">
+            <div class="logo">Professional Sunscreen</div>
+            <div class="trust-badge">✓ Dermatologist Recommended</div>
+        </div>
+    </header>
+
+    <section class="hero">
+        <h1>Top 6 <span class="highlight">Professional Sunscreen</span> 2026</h1>
+        <p class="hero-subtitle">Medical-Grade Sun Protection That Actually Works for Your Skin</p>
+
+        <div class="hero-stats">
+            <div class="hero-stat">
+                <span class="hero-stat-number">50K+</span>
+                <span class="hero-stat-label">5-Star Reviews</span>
+            </div>
+            <div class="hero-stat">
+                <span class="hero-stat-number">95%</span>
+                <span class="hero-stat-label">Dermatologists Recommend</span>
+            </div>
+            <div class="hero-stat">
+                <span class="hero-stat-number">#1</span>
+                <span class="hero-stat-label">Professional Brand</span>
+            </div>
+        </div>
+
+        <span class="hero-badge">✓ Clinically Proven • Hypoallergenic • Non-Comedogenic</span>
+
+        <div class="hero-cta">
+            <a href="https://affur.top/ls2386a" class="hero-cta-button">🛒 Shop Best Sellers Now</a>
+            <span class="hero-cta-subtext">✓ Free Shipping Over $75 • ✓ 30-Day Money Back Guarantee</span>
+        </div>
+    </section>
+
+    <div class="container">
+        <h2 class="section-title" id="products">Top 6 Best-Selling Products</h2>
+
+        <div class="product-grid">
+            <!-- Product 1: UV Clear -->
+            <div class="product-card">
+                <div class="rank-badge">#1</div>
+                <div class="bestseller-badge">⭐ BEST SELLER</div>
+                <div class="product-image">
+                    <div class="product-image-placeholder">
+                        <img src="https://eltamd.com/cdn/shop/files/B002MSN3QQ_5.jpg" alt="UV Clear SPF 46" loading="lazy">
+                    </div>
+                </div>
+                <div class="product-content">
+                    <h3 class="product-name">UV Clear Broad-Spectrum SPF 46</h3>
+                    <div class="rating-stars">
+                        <span class="stars">★★★★★</span>
+                        <span class="rating-count">(18,542 reviews)</span>
+                    </div>
+                    <p class="product-description">Lightweight sunscreen for acne-prone and sensitive skin with 5% Niacinamide</p>
+                    <ul class="product-features">
+                        <li>Calms and protects sensitive skin</li>
+                        <li>Reduces blemishes & discoloration</li>
+                        <li>Oil-free, fragrance-free</li>
+                        <li>Available in tinted & untinted</li>
+                    </ul>
+                    <div class="product-footer">
+                        <div>
+                            <span class="product-price-label">Price</span>
+                            <div class="product-price">$47</div>
+                            <div class="limited-stock">⚡ Only 23 left in stock</div>
+                        </div>
+                        <a href="https://affur.top/ls2386a" class="cta-button" target="_blank" rel="noopener">Shop Now</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Product 2: UV Daily -->
+            <div class="product-card">
+                <div class="rank-badge">#2</div>
+                <div class="bestseller-badge">🔥 TRENDING</div>
+                <div class="product-image">
+                    <div class="product-image-placeholder">
+                        <img src="https://eltamd.com/cdn/shop/files/UVDailyTinted-Ingredient_1800x1800.jpg" alt="UV Daily SPF 40" loading="lazy">
+                    </div>
+                </div>
+                <div class="product-content">
+                    <h3 class="product-name">UV Daily Tinted Broad-Spectrum SPF 40</h3>
+                    <div class="rating-stars">
+                        <span class="stars">★★★★★</span>
+                        <span class="rating-count">(12,389 reviews)</span>
+                    </div>
+                    <p class="product-description">Daily moisturizer with broad-spectrum protection for all skin types</p>
+                    <ul class="product-features">
+                        <li>Hydrates & protects daily</li>
+                        <li>Lightweight, non-greasy formula</li>
+                        <li>Hyaluronic acid for moisture</li>
+                        <li>Perfect under makeup</li>
+                    </ul>
+                    <div class="product-footer">
+                        <div>
+                            <span class="product-price-label">Price</span>
+                            <div class="product-price">$43</div>
+                            <div class="limited-stock">⚡ 47 sold in last 24 hours</div>
+                        </div>
+                        <a href="https://affur.top/ls2386a" class="cta-button" target="_blank" rel="noopener">Shop Now</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Product 3: UV Physical -->
+            <div class="product-card">
+                <div class="rank-badge">#3</div>
+                <div class="bestseller-badge">💎 TOP RATED</div>
+                <div class="product-image">
+                    <div class="product-image-placeholder">
+                        <img src="https://eltamd.com/cdn/shop/files/Tinted_-_1_1800x1800.jpg" alt="UV Physical SPF 41" loading="lazy">
+                    </div>
+                </div>
+                <div class="product-content">
+                    <h3 class="product-name">UV Daily Tinted Broad-Spectrum SPF 40</h3>
+                    <div class="rating-stars">
+                        <span class="stars">★★★★★</span>
+                        <span class="rating-count">(9,876 reviews)</span>
+                    </div>
+                    <p class="product-description">100% mineral sunscreen with natural tint for post-procedure skin</p>
+                    <ul class="product-features">
+                        <li>100% physical sunscreen</li>
+                        <li>Ideal for post-procedure care</li>
+                        <li>Water-resistant (40 minutes)</li>
+                        <li>Gentle on sensitive skin</li>
+                    </ul>
+                    <div class="product-footer">
+                        <div>
+                            <span class="product-price-label">Price</span>
+                            <div class="product-price">$43</div>
+                            <div class="limited-stock">✓ In Stock</div>
+                        </div>
+                        <a href="https://affur.top/ls2386a" class="cta-button" target="_blank" rel="noopener">Shop Now</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Product 4: UV Skin Recovery -->
+            <div class="product-card">
+                <div class="rank-badge">#4</div>
+                <div class="bestseller-badge">🌟 NEW</div>
+                <div class="product-image">
+                    <div class="product-image-placeholder">
+                        <img src="https://eltamd.com/cdn/shop/files/UVSR-Green_Tint-Thumbnail_6_1800x1800.jpg" alt="UV Skin Recovery SPF 50" loading="lazy">
+                    </div>
+                </div>
+                <div class="product-content">
+                    <h3 class="product-name">UV Skin Recovery SPF 50</h3>
+                    <div class="rating-stars">
+                        <span class="stars">★★★★★</span>
+                        <span class="rating-count">(7,234 reviews)</span>
+                    </div>
+                    <p class="product-description">Green-tinted mineral sunscreen that neutralizes redness instantly</p>
+                    <ul class="product-features">
+                        <li>Color-correcting green tint</li>
+                        <li>Neutralizes redness</li>
+                        <li>100% mineral formula</li>
+                        <li>Glowy, natural finish</li>
+                    </ul>
+                    <div class="product-footer">
+                        <div>
+                            <span class="product-price-label">Price</span>
+                            <div class="product-price">$52</div>
+                            <div class="limited-stock">⚡ 31 sold in last 24 hours</div>
+                        </div>
+                        <a href="https://affur.top/ls2386a" class="cta-button" target="_blank" rel="noopener">Shop Now</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Product 5: UV Active -->
+            <div class="product-card">
+                <div class="rank-badge">#5</div>
+                <div class="bestseller-badge">🏃 ACTIVE</div>
+                <div class="product-image">
+                    <div class="product-image-placeholder">
+                        <img src="https://eltamd.com/cdn/shop/files/UVSR-Untinted-Thumbnail_5_1800x1800.jpg" alt="UV Active SPF 50+" loading="lazy">
+                    </div>
+                </div>
+                <div class="product-content">
+                    <h3 class="product-name">UV Skin Recovery Broad Spectrum SPF 50 Face Sunscreen</h3>
+                    <div class="rating-stars">
+                        <span class="stars">★★★★★</span>
+                        <span class="rating-count">(6,891 reviews)</span>
+                    </div>
+                    <p class="product-description">100% mineral sunscreen for active lifestyles and outdoor activities</p>
+                    <ul class="product-features">
+                        <li>Water-resistant (80 minutes)</li>
+                        <li>Sweat-resistant formula</li>
+                        <li>Perfect for sports & outdoor</li>
+                        <li>Reef-safe ingredients</li>
+                    </ul>
+                    <div class="product-footer">
+                        <div>
+                            <span class="product-price-label">Price</span>
+                            <div class="product-price">$40</div>
+                            <div class="limited-stock">✓ In Stock</div>
+                        </div>
+                        <a href="https://affur.top/ls2386a" class="cta-button" target="_blank" rel="noopener">Shop Now</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Product 6: UV Sheer -->
+            <div class="product-card">
+                <div class="rank-badge">#6</div>
+                <div class="bestseller-badge">✨ POPULAR</div>
+                <div class="product-image">
+                    <div class="product-image-placeholder">
+                        <img src="https://eltamd.com/cdn/shop/files/Copy_of_B001FYXA6G_key_benefit_1800x1800.jpg" alt="UV Sheer SPF 50+" loading="lazy">
+                    </div>
+                </div>
+                <div class="product-content">
+                    <h3 class="product-name">UV Sheer Broad-Spectrum SPF 50+</h3>
+                    <div class="rating-stars">
+                        <span class="stars">★★★★★</span>
+                        <span class="rating-count">(5,432 reviews)</span>
+                    </div>
+                    <p class="product-description">Ultra-lightweight, invisible sunscreen for face and body with antioxidants</p>
+                    <ul class="product-features">
+                        <li>Sheer, weightless formula</li>
+                        <li>No white cast or residue</li>
+                        <li>Antioxidant protection</li>
+                        <li>Perfect for all skin tones</li>
+                    </ul>
+                    <div class="product-footer">
+                        <div>
+                            <span class="product-price-label">Price</span>
+                            <div class="product-price">$32</div>
+                            <div class="limited-stock">✓ In Stock</div>
+                        </div>
+                        <a href="https://affur.top/ls2386a" class="cta-button" target="_blank" rel="noopener">Shop Now</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <section class="benefits-section">
+        <div class="benefits-grid">
+            <div class="benefit-card">
+                <div class="benefit-icon">🏥</div>
+                <h3 class="benefit-title">Dermatologist Trusted</h3>
+                <p class="benefit-text">#1 recommended professional sunscreen brand by dermatologists nationwide</p>
+            </div>
+            <div class="benefit-card">
+                <div class="benefit-icon">🧪</div>
+                <h3 class="benefit-title">Medical-Grade Formula</h3>
+                <p class="benefit-text">Clinically tested, hypoallergenic, and non-comedogenic formulations</p>
+            </div>
+            <div class="benefit-card">
+                <div class="benefit-icon">🌿</div>
+                <h3 class="benefit-title">Sensitive Skin Safe</h3>
+                <p class="benefit-text">Fragrance-free, paraben-free, and gentle on all skin types</p>
+            </div>
+            <div class="benefit-card">
+                <div class="benefit-icon">🚚</div>
+                <h3 class="benefit-title">Free Shipping</h3>
+                <p class="benefit-text">Free shipping on all orders over $75 within the United States</p>
+            </div>
+        </div>
+    </section>
+
+    <div class="disclaimer">
+        <p><strong>Disclaimer:</strong> This is an informational landing page showcasing popular Professional Sunscreen products. Prices and availability are subject to change. Please visit the official Professional Sunscreen website for the most current information. Individual results may vary. Always consult with a dermatologist for personalized skincare recommendations. This page contains affiliate links to Professional Sunscreen.</p>
+        <p style="margin-top: 12px;">All product information is sourced from official Professional Sunscreen materials and dermatologist reviews. Professional Sunscreen is a registered trademark of Swiss-American Products.</p>
+    </div>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <p>&copy; 2026 Professional Sunscreen. All rights reserved.</p>
+            <div class="footer-links">
+                <a href="https://affur.top/ls2386a" target="_blank" rel="noopener">Official Website</a>
+                <a href="https://affur.top/ls2386a">Privacy Policy</a>
+                <a href="https://affur.top/ls2386a">Terms of Service</a>
+                <a href="https://affur.top/ls2386a">Contact</a>
+            </div>
+            <p style="margin-top: 20px; font-size: 13px; color: #a8c5db;">
+                This is an independent product review and comparison site. We may earn a commission from purchases made through our links.
+            </p>
+        </div>
+    </footer>
+</body>
+</html>
